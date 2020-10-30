@@ -1,0 +1,6 @@
+[submodule "example-code/exercise-files/Ch02/02_04/End/awesome-static-site/themes/solar-theme-hugo"]
+	path = example-code/exercise-files/Ch02/02_04/End/awesome-static-site/themes/solar-theme-hugo
+	url = https://github.com/bake/solar-theme-hugo.git
+[submodule "example-code/exercise-files/Ch02/02_04/End/awesome-static-site/themes/hugo-minimalist-theme.git"]
+	path = example-code/exercise-files/Ch02/02_04/End/awesome-static-site/themes/hugo-minimalist-theme.git
+	url = https://github.com/digitalcraftsman/hugo-minimalist-theme.git
