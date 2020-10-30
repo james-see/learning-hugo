@@ -4,3 +4,6 @@
 [submodule "example-code/exercise-files/Ch02/02_04/End/awesome-static-site/themes/hugo-minimalist-theme.git"]
 	path = example-code/exercise-files/Ch02/02_04/End/awesome-static-site/themes/hugo-minimalist-theme.git
 	url = https://github.com/digitalcraftsman/hugo-minimalist-theme.git
+[submodule "example-code/exercise-files/Ch02/02_04/End/awesome-static-site/themes/hugo-minimalist-theme"]
+	path = example-code/exercise-files/Ch02/02_04/End/awesome-static-site/themes/hugo-minimalist-theme
+	url = https://github.com/digitalcraftsman/hugo-minimalist-theme.git
