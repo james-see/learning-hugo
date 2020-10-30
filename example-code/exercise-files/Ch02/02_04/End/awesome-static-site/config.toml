@@ -14,13 +14,13 @@ theme = "hugo-minimalist-theme"
 # themesDir = "../.."
 
 [params]
-    site_author = "John Doe"
+    site_author = "James Campbell"
     site_description = "The awesome blog of John Doe."
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
-    header_title = "Customizable header title"
+    header_background = "img/header1.jpg"
+    header_title = "Dicky Cheeseman"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
